@@ -31,14 +31,17 @@ img{
 }
 
 .menuPrincipal  .btnAgua{
-	background: #3A98F8;
+	background: green;
 	
 }
 
 .btnElectrico{
-	background: #F8D030;
+	background: red;
 margin-top: 20px; 
+
 }
+
+
 
 section article{
 	border: 2px solid #B0E2FF;
