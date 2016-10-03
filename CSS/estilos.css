@@ -1,0 +1,63 @@
+body{
+	font-size: 16px;
+}
+
+img{
+	max-width: 100%;
+	
+}
+
+.container{
+    border: 5px solid red;
+    transition: all 0.4s ease-in-out;
+	margin: 0 auto; 
+	width: 90%;
+}
+
+.menuPrincipal{
+	
+	text-align: center;
+}
+
+
+.menuPrincipal a{
+	color: white
+   padding top: 10px;
+   padding-bottom: 10px;
+   margin: 0 auto;
+   font-weight: bold;
+   text-align: center;
+   text-decoration:none;
+}
+
+.menuPrincipal  .btnAgua{
+	background: #3A98F8;
+	
+}
+
+.btnElectrico{
+	background: #F8D030;
+margin-top: 20px; 
+}
+
+section article{
+	border: 2px solid #B0E2FF;
+	border-radius: 10px;
+	padding: 10px;
+
+}
+@media screen and (max-width: 1024px;){
+	.menuPrincipal a{
+		display: block;
+	}
+}
+
+@media screen and (min-width: 600px;){
+section img{
+	height: 200px;
+}
+section{
+	display: flex;
+	justify-content: space-around;
+}	
+}
