@@ -21,7 +21,7 @@ img{
 
 
 .menuPrincipal a{
-	color: white
+	color: red;
    padding top: 10px;
    padding-bottom: 10px;
    margin: 0 auto;
@@ -64,3 +64,4 @@ section{
 	justify-content: space-around;
 }	
 }
+
