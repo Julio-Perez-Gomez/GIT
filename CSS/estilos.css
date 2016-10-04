@@ -8,7 +8,7 @@ img{
 }
 
 .container{
-    border: 5px solid red;
+    border: 5px solid blue;
     transition: all 0.4s ease-in-out;
 	margin: 0 auto; 
 	width: 90%;
